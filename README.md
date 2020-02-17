@@ -1,4 +1,8 @@
-# todo_list
+# Application can be seen here
+
+### https://todolist-pk.netlify.com/#/ 
+
+# How to get started?  
 
 ## Project setup
 ```
