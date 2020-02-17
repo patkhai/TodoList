@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>What make this?</h1>
+    <h1>What is this for?</h1>
     <br>
     <p>This web application will help you create accomplished task and increased
       your productivity. </p>
