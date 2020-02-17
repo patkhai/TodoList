@@ -5,7 +5,7 @@
     <p>This web application will help you create accomplished task and increased
       your productivity. </p>
       <br>
-    <p>This project is created with Vue.js framework with the JSONplaceholder 
+    <p>This project is created with Vue.js framework with the JSON placeholder 
       temporary API Todos list.  
     </p>
   </div>
