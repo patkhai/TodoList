@@ -1,7 +1,6 @@
 # Application can be seen here
-```
-https://todolist-pk.netlify.com/#/
-```
+
+### https://todolist-pk.netlify.com/#/ 
 
 # How to get started?  
 
